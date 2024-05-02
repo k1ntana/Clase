@@ -1,0 +1,13 @@
+
+@import url(./font.css);
+
+h1{
+    color: rgb(rgb(255, 0, 0), green, blue);
+    font-size: 60px;
+    text-decoration: underline solid red;
+    letter-spacing: 1px;
+    word-spacing: 10px;
+    line-height: 60px;
+    font-weight: 700;
+
+}

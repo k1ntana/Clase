@@ -1,0 +1,29 @@
+*{
+    color: red;
+    font-family: sans-serif;
+}
+
+button{
+    color: red;
+}
+
+.especial{
+    color: blue;
+}
+
+.super-especial{
+    background-color: red;
+}
+
+button{
+    color: blueviolet;
+}
+
+button{
+    color: red
+}
+
+#btn-super-especial{
+    color: green;
+
+}
